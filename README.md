@@ -1,4 +1,4 @@
-# Hotels Webscraping Project
+# Hotels Webscraping
 This is a practical webscrapping project we executed during my bootcamp in 10alytics.
 
 ## Business Problem
