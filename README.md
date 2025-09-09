@@ -7,18 +7,18 @@ Their platform serves as a valuable resource for individuals and other businesse
 
 
 BizInfo has identified a significant challenge: the hotel listings within their Nigerian directory are plagued by inconsistencies and inaccuracies. This includes:
-● Outdated Information
-● Missing Data
-● Data Discrepancies
-● Incomplete Listings
+*  Outdated Information
+*  Missing Data
+*  Data Discrepancies
+*  Incomplete Listings
 
+ 
 ## Rationale for the Project
-
 Hotels.ng is a leading online hotel booking platform in Nigeria, renowned for its extensive and up-to-date database of hotels. By scraping data from Hotels.ng, BizInfo can:
-● Improve Data Accuracy: Leverage Hotels.ng's regularly updated information to rectify inconsistencies and ensure data accuracy within
+* Improve Data Accuracy: Leverage Hotels.ng's regularly updated information to rectify inconsistencies and ensure data accuracy within
 its own directory.
-● Enhance Data Completeness: Fill in missing data points and enrich hotel listings with detailed information sourced from Hotels.ng.
-● Gain a Competitive Edge: Offer a more reliable and comprehensive hotel directory compared to competitors.
+*  Enhance Data Completeness: Fill in missing data points and enrich hotel listings with detailed information sourced from Hotels.ng.
+*   Gain a Competitive Edge: Offer a more reliable and comprehensive hotel directory compared to competitors.
 
 ## Aim of the Project
 1. Create a Python-based web scraping system to efficiently extract hotel data from Hotels.ng.
@@ -38,14 +38,10 @@ user satisfaction.
 ## Project Workflow
 Here is an overview of the flow of task for this
 project:
-● Data Extraction: Using Python codes to extract hotel data from hotels.ng
-● Data Transformation: Using pandas to parse and manipulate the data for storage compatibility and data quality.
-● Data Storage: Design a database schema to organize the data effectively and load into BIzInfo database
+* Data Extraction: Using Python codes to extract hotel data from hotels.ng
+* Data Transformation: Using pandas to parse and manipulate the data for storage compatibility and data quality.
+* Data Storage: Design a database schema to organize the data effectively and load into BIzInfo database
 
 ## Scripts
 ![ETL](hotels.py)
-
-
-
-![Airflow_DAG](airflow_dag.jpg)
 
