@@ -43,5 +43,5 @@ project:
 * Data Storage: Design a database schema to organize the data effectively and load into BIzInfo database
 
 ## Scripts
-![ETL](hotels.py)
+![hotels.py](hotels.py)
 
